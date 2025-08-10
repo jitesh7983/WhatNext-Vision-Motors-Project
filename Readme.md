@@ -96,7 +96,7 @@ The solution leverages **custom objects**, **Lightning Apps**, **Flows**, **Apex
 ---
 
 ## 🎥 Demo Video
-[Click here to watch the demo]([https://drive.google.com/file/d/1jIiv6QyfvjlYYUVG9WkH6J9FaivBRHaa/view?usp=sharing])
+[Click here to watch the demo](https://drive.google.com/file/d/1jIiv6QyfvjlYYUVG9WkH6J9FaivBRHaa/view?usp=sharing)
 
 ---
 
